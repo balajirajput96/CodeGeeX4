@@ -4,4 +4,4 @@ regex==2024.5.15
 requests==2.32.4
 tiktoken==0.7.0
 torch==2.8.0
-transformers==4.53.0
+transformers==4.56.2
