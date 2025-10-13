@@ -1,5 +1,5 @@
 accelerate==0.31.0
-gradio==4.26.0
+gradio==5.31.0
 regex==2024.5.15
 requests==2.32.4
 tiktoken==0.7.0
