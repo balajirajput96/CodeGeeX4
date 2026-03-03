@@ -1,4 +1,4 @@
-chainlit==1.1.305
+chainlit==2.9.4
 beautifulsoup4
 python-dotenv
 gitpython
