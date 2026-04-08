@@ -1,12 +1,12 @@
 accelerate==0.31.0
 faiss-cpu==1.8
-gradio==4.26.0
+gradio==6.7.0
 langchain==0.2.5
 langchain-community==0.3.27
 regex==2024.5.15
-requests==2.32.4
+requests==2.33.0
 tiktoken==0.7.0
 torch==2.8.0
 tqdm==4.66.4
-transformers==4.56.2
+transformers==5.0.0rc3
 zhipuai~=2.0

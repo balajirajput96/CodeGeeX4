@@ -3,11 +3,11 @@ fastapi==0.111.0
 openai==1.35.12
 pydantic==2.8.2
 regex==2024.5.15
-requests==2.32.4
+requests==2.33.0
 shortuuid==1.0.13
 sseclient==0.0.27
-starlette==0.47.2
+starlette==0.49.1
 tiktoken==0.7.0
 torch==2.8.0
-transformers==4.53.0
+transformers==5.0.0rc3
 uvicorn==0.30.1
